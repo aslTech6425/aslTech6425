@@ -1,3 +1,5 @@
+![Alt text](img/HeroBackground.png)
+
 <h1 align="center">🌟 Welcome to Our Creative Lab 🌟</h1>
 
 <p align="center">
