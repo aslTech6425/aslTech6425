@@ -56,10 +56,8 @@
 
 ### 🌐 Let's Collaborate!
 
-📫 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🌍 **Website:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)  
-📸 **Instagram:** [@yourhandle](https://instagram.com)
+📫 **Email:** [asltech6425@gmail.com](asltech6425@gmail.com)  
+🌍 **Website:** [aslportfolio](https://aslportfolio-five.vercel.app/) 
 
 ---
 
